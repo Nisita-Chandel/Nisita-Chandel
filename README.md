@@ -57,4 +57,4 @@ focus:
 ### connect.with.me()
 
 - GitHub: https://github.com/Nisita-Chandel
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn:https://www.linkedin.com/in/nisita-chandel-691812365/
