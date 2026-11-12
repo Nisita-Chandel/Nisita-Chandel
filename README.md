@@ -51,7 +51,7 @@ focus:
 ### achievements()
 
 - NPTEL Elite Certificate in Data Structures
-- B.Tech CGPA: 8.69
+- B.Tech CGPA: 8.66
 - Software Development Internship Experience
 
 ### connect.with.me()
