@@ -16,7 +16,7 @@ name: Nisita Chandel
 role: Full Stack Developer
 education: B.Tech - Computer Science Engineering
 college: Oriental College of Technology
-cgpa: 8.69
+cgpa: 8.66
 location: Harda, Madhya Pradesh
 
 experience:
